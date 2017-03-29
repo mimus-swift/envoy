@@ -1,0 +1,8 @@
+language: Swift
+xcode_project: Envoy.xcodeproj
+xcode_scheme: Envoy-iOS
+xcode_sdk: [iphonesimulator10.2]
+osx_image: xcode8.2
+
+script:
+  - ./run_tests.sh
