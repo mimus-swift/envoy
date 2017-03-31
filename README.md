@@ -6,6 +6,7 @@
 [![CocoaPods compatible](https://img.shields.io/badge/CocoaPods-compatible-4BC51D.svg?style=flat)](https://github.com/CocoaPods/CocoaPods)
 [![License MIT](https://img.shields.io/badge/License-MIT-blue.svg?style=flat)]()
 [![Public Yes](https://img.shields.io/badge/Public-yes-green.svg?style=flat)]()
+[![Build Status](https://travis-ci.org/AirHelp/envoy.svg?branch=master)](https://travis-ci.org/AirHelp/envoy)
 
 Envoy is a protocol-oriented thread-safe replacement of `NSNotificationCenter`. At AirHelp we believe that in most cases using `NSNotificationCenter` is an anti-pattern ([many words](https://davidnix.io/post/stop-using-nsnotificationcenter/) [have been said](http://blog.jaredsinclair.com/post/136408895215/nsnotificationcenter-is-probably-an-anti-pattern) on this subject).
 
